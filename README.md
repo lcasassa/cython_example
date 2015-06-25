@@ -3,8 +3,8 @@ of nosetest and all the potential of python, this example is for you.
 
 sudo apt-get install cython
 
-`git clone git@github.com:lcasassa/cython_example.git`
-`cd cython_example`
+`git clone git@github.com:lcasassa/cython_example.git` <br />
+`cd cython_example` <br />
 `make`
 
 Enjoy,
